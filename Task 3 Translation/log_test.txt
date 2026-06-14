@@ -1,0 +1,22 @@
+[2026-04-30 11:28:43] epoch=0 device=cpu
+EN: I love you
+ZH: ？打游戏你高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢
+EN: This is a book
+ZH: ？打游戏你高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下<unk>谢谢高兴名字一下<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字
+EN: How are you
+ZH: ？打游戏你高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢
+EN: I am a student
+ZH: ？打游戏你高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢
+EN: What is your name
+ZH: ？打游戏对不起
+EN: Thank you
+ZH: ？打游戏对不起
+EN: Good morning
+ZH: ？打游戏对不起
+EN: See you tomorrow
+ZH: ？打游戏你高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢
+EN: I want to eat
+ZH: ？打游戏你高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下<unk>谢谢高兴名字一下<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字
+EN: Where is the bathroom
+ZH: ？打游戏你高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字一下<unk>谢谢高兴名字一下<unk>谢谢高兴名字一下慢<unk>谢谢高兴名字
+

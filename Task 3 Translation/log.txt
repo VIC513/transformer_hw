@@ -1,0 +1,1496 @@
+[2026-04-30 13:14:01] epoch=1 device=cuda:0 | train_loss=2.946175 | val_loss=1.668903
+EN: I love you
+ZH: 我坐出租车去。
+EN: This is a book
+ZH: 我坐走路去洗手间。
+EN: How are you
+ZH: 你坐自行车去洗手间。
+EN: I am a student
+ZH: 我坐出租车去。
+EN: What is your name
+ZH: 莎拉喜欢莎拉。
+EN: Thank you
+ZH: 你坐。
+EN: Good morning
+ZH: 莎拉喜欢莉莉。
+EN: See you tomorrow
+ZH: 你坐走路去洗手间。
+EN: I want to eat
+ZH: 我坐出租车去图书馆。
+EN: Where is the bathroom
+ZH: 你坐走路去图书馆。
+
+[2026-04-30 13:14:21] epoch=2 device=cuda:0 | train_loss=1.271552 | val_loss=0.778453
+EN: I love you
+ZH: 我想吃一个三明治。
+EN: This is a book
+ZH: 你想吃一个三明治。
+EN: How are you
+ZH: 你想吃一个三明治。
+EN: I am a student
+ZH: 我想吃一个三明治。
+EN: What is your name
+ZH: 你想吃一个三明治。
+EN: Thank you
+ZH: 你喜欢凯文。
+EN: Good morning
+ZH: 大卫喜欢做饭。
+EN: See you tomorrow
+ZH: 你想吃一个三明治。
+EN: I want to eat
+ZH: 我想吃一个三明治。
+EN: Where is the bathroom
+ZH: 我们坐出租车去药店。
+
+[2026-04-30 13:14:41] epoch=3 device=cuda:0 | train_loss=0.576937 | val_loss=0.404477
+EN: I love you
+ZH: 你想吃一个三明治。
+EN: This is a book
+ZH: 你想吃一个三明治。
+EN: How are you
+ZH: 你想要这本书。
+EN: I am a student
+ZH: 我想吃一个三明治。
+EN: What is your name
+ZH: 你想吃一个三明治。
+EN: Thank you
+ZH: 你喜欢格蕾丝。
+EN: Good morning
+ZH: 布莱恩喜欢布莱恩。
+EN: See you tomorrow
+ZH: 你想吃一个三明治。
+EN: I want to eat
+ZH: 我想吃一个三明治。
+EN: Where is the bathroom
+ZH: 琳达今天觉得高兴。
+
+[2026-04-30 13:15:01] epoch=4 device=cuda:0 | train_loss=0.346670 | val_loss=0.299654
+EN: I love you
+ZH: 你想要一张票。
+EN: This is a book
+ZH: 你想要一张票。
+EN: How are you
+ZH: 你想要这部手机。
+EN: I am a student
+ZH: 我喜欢电影。
+EN: What is your name
+ZH: 你想要这本书。
+EN: Thank you
+ZH: 你喜欢朱莉娅。
+EN: Good morning
+ZH: 我们在学英文。
+EN: See you tomorrow
+ZH: 你想要这本书。
+EN: I want to eat
+ZH: 我想吃一个三明治。
+EN: Where is the bathroom
+ZH: 医院在哪里？
+
+[2026-04-30 13:15:23] epoch=5 device=cuda:0 | train_loss=0.255205 | val_loss=0.221613
+EN: I love you
+ZH: 你是学生。
+EN: This is a book
+ZH: 现在五点。
+EN: How are you
+ZH: 你是学生。
+EN: I am a student
+ZH: 我喜欢电影。
+EN: What is your name
+ZH: 你是学生。
+EN: Thank you
+ZH: 你是医生。
+EN: Good morning
+ZH: 现在五点。
+EN: See you tomorrow
+ZH: 你是学生。
+EN: I want to eat
+ZH: 我想吃一个苹果。
+EN: Where is the bathroom
+ZH: 医院在哪里？
+
+[2026-04-30 13:15:47] epoch=6 device=cuda:0 | train_loss=0.189336 | val_loss=0.175814
+EN: I love you
+ZH: 你会说英文吗？
+EN: This is a book
+ZH: 这本书多少钱？
+EN: How are you
+ZH: 你是学生。
+EN: I am a student
+ZH: 我是学生。
+EN: What is your name
+ZH: 你是学生。
+EN: Thank you
+ZH: 你是医生。
+EN: Good morning
+ZH: 我们是学生。
+EN: See you tomorrow
+ZH: 你是学生。
+EN: I want to eat
+ZH: 我想吃一个苹果。
+EN: Where is the bathroom
+ZH: 派出所在哪里？
+
+[2026-04-30 13:16:07] epoch=7 device=cuda:0 | train_loss=0.126451 | val_loss=0.108976
+EN: I love you
+ZH: 你会说英文吗？
+EN: This is a book
+ZH: 我是医生。
+EN: How are you
+ZH: 你是学生？
+EN: I am a student
+ZH: 我是学生。
+EN: What is your name
+ZH: 你会说英文吗？
+EN: Thank you
+ZH: 你是工程师。
+EN: Good morning
+ZH: 一张票多少钱？
+EN: See you tomorrow
+ZH: 你是学生。
+EN: I want to eat
+ZH: 我想吃沙拉。
+EN: Where is the bathroom
+ZH: 派出所在哪里？
+
+[2026-04-30 13:16:29] epoch=8 device=cuda:0 | train_loss=0.080011 | val_loss=0.091085
+EN: I love you
+ZH: 你会说英文吗？
+EN: This is a book
+ZH: 这本书多少钱？
+EN: How are you
+ZH: 你是学生？
+EN: I am a student
+ZH: 我是学生。
+EN: What is your name
+ZH: 你会说英文吗？
+EN: Thank you
+ZH: 你是工程师。
+EN: Good morning
+ZH: 早上好
+EN: See you tomorrow
+ZH: 你是学生。
+EN: I want to eat
+ZH: 我想吃披萨！
+EN: Where is the bathroom
+ZH: 地铁站在哪里？
+
+[2026-04-30 13:16:31] epoch=8 device=cuda:0
+EN: I love you
+ZH: 你会说英文吗？
+EN: This is a book
+ZH: 这本书多少钱？
+EN: How are you
+ZH: 你是学生？
+EN: I am a student
+ZH: 我是学生。
+EN: What is your name
+ZH: 你会说英文吗？
+EN: Thank you
+ZH: 你是工程师。
+EN: Good morning
+ZH: 早上好
+EN: See you tomorrow
+ZH: 你是学生。
+EN: I want to eat
+ZH: 我想吃披萨！
+EN: Where is the bathroom
+ZH: 地铁站在哪里？
+
+[2026-04-30 13:29:08] epoch=1 device=cuda:0 | train_loss=2.946175 | val_loss=1.668903
+EN: I love you
+ZH: 我坐出租车去。
+EN: This is a book
+ZH: 我坐走路去洗手间。
+EN: How are you
+ZH: 你坐自行车去洗手间。
+EN: I am a student
+ZH: 我坐出租车去。
+EN: What is your name
+ZH: 莎拉喜欢莎拉。
+EN: Thank you
+ZH: 你坐。
+EN: Good morning
+ZH: 莎拉喜欢莉莉。
+EN: See you tomorrow
+ZH: 你坐走路去洗手间。
+EN: I want to eat
+ZH: 我坐出租车去图书馆。
+EN: Where is the bathroom
+ZH: 你坐走路去图书馆。
+
+[2026-04-30 13:29:11] epoch=2 device=cuda:0 | train_loss=1.271552 | val_loss=0.778453
+EN: I love you
+ZH: 我想吃一个三明治。
+EN: This is a book
+ZH: 你想吃一个三明治。
+EN: How are you
+ZH: 你想吃一个三明治。
+EN: I am a student
+ZH: 我想吃一个三明治。
+EN: What is your name
+ZH: 你想吃一个三明治。
+EN: Thank you
+ZH: 你喜欢凯文。
+EN: Good morning
+ZH: 大卫喜欢做饭。
+EN: See you tomorrow
+ZH: 你想吃一个三明治。
+EN: I want to eat
+ZH: 我想吃一个三明治。
+EN: Where is the bathroom
+ZH: 我们坐出租车去药店。
+
+[2026-04-30 13:29:15] epoch=3 device=cuda:0 | train_loss=0.576937 | val_loss=0.404477
+EN: I love you
+ZH: 你想吃一个三明治。
+EN: This is a book
+ZH: 你想吃一个三明治。
+EN: How are you
+ZH: 你想要这本书。
+EN: I am a student
+ZH: 我想吃一个三明治。
+EN: What is your name
+ZH: 你想吃一个三明治。
+EN: Thank you
+ZH: 你喜欢格蕾丝。
+EN: Good morning
+ZH: 布莱恩喜欢布莱恩。
+EN: See you tomorrow
+ZH: 你想吃一个三明治。
+EN: I want to eat
+ZH: 我想吃一个三明治。
+EN: Where is the bathroom
+ZH: 琳达今天觉得高兴。
+
+[2026-04-30 13:29:20] epoch=4 device=cuda:0 | train_loss=0.346670 | val_loss=0.299654
+EN: I love you
+ZH: 你想要一张票。
+EN: This is a book
+ZH: 你想要一张票。
+EN: How are you
+ZH: 你想要这部手机。
+EN: I am a student
+ZH: 我喜欢电影。
+EN: What is your name
+ZH: 你想要这本书。
+EN: Thank you
+ZH: 你喜欢朱莉娅。
+EN: Good morning
+ZH: 我们在学英文。
+EN: See you tomorrow
+ZH: 你想要这本书。
+EN: I want to eat
+ZH: 我想吃一个三明治。
+EN: Where is the bathroom
+ZH: 医院在哪里？
+
+[2026-04-30 13:29:27] epoch=5 device=cuda:0 | train_loss=0.255205 | val_loss=0.221613
+EN: I love you
+ZH: 你是学生。
+EN: This is a book
+ZH: 现在五点。
+EN: How are you
+ZH: 你是学生。
+EN: I am a student
+ZH: 我喜欢电影。
+EN: What is your name
+ZH: 你是学生。
+EN: Thank you
+ZH: 你是医生。
+EN: Good morning
+ZH: 现在五点。
+EN: See you tomorrow
+ZH: 你是学生。
+EN: I want to eat
+ZH: 我想吃一个苹果。
+EN: Where is the bathroom
+ZH: 医院在哪里？
+
+[2026-04-30 13:29:35] epoch=6 device=cuda:0 | train_loss=0.189336 | val_loss=0.175814
+EN: I love you
+ZH: 你会说英文吗？
+EN: This is a book
+ZH: 这本书多少钱？
+EN: How are you
+ZH: 你是学生。
+EN: I am a student
+ZH: 我是学生。
+EN: What is your name
+ZH: 你是学生。
+EN: Thank you
+ZH: 你是医生。
+EN: Good morning
+ZH: 我们是学生。
+EN: See you tomorrow
+ZH: 你是学生。
+EN: I want to eat
+ZH: 我想吃一个苹果。
+EN: Where is the bathroom
+ZH: 派出所在哪里？
+
+[2026-04-30 13:29:43] epoch=7 device=cuda:0 | train_loss=0.126451 | val_loss=0.108976
+EN: I love you
+ZH: 你会说英文吗？
+EN: This is a book
+ZH: 我是医生。
+EN: How are you
+ZH: 你是学生？
+EN: I am a student
+ZH: 我是学生。
+EN: What is your name
+ZH: 你会说英文吗？
+EN: Thank you
+ZH: 你是工程师。
+EN: Good morning
+ZH: 一张票多少钱？
+EN: See you tomorrow
+ZH: 你是学生。
+EN: I want to eat
+ZH: 我想吃沙拉。
+EN: Where is the bathroom
+ZH: 派出所在哪里？
+
+[2026-04-30 13:29:51] epoch=8 device=cuda:0 | train_loss=0.080011 | val_loss=0.091085
+EN: I love you
+ZH: 你会说英文吗？
+EN: This is a book
+ZH: 这本书多少钱？
+EN: How are you
+ZH: 你是学生？
+EN: I am a student
+ZH: 我是学生。
+EN: What is your name
+ZH: 你会说英文吗？
+EN: Thank you
+ZH: 你是工程师。
+EN: Good morning
+ZH: 早上好
+EN: See you tomorrow
+ZH: 你是学生。
+EN: I want to eat
+ZH: 我想吃披萨！
+EN: Where is the bathroom
+ZH: 地铁站在哪里？
+
+[2026-04-30 13:29:52] epoch=8 device=cuda:0
+EN: I love you
+ZH: 你会说英文吗？
+EN: This is a book
+ZH: 这本书多少钱？
+EN: How are you
+ZH: 你是学生？
+EN: I am a student
+ZH: 我是学生。
+EN: What is your name
+ZH: 你会说英文吗？
+EN: Thank you
+ZH: 你是工程师。
+EN: Good morning
+ZH: 早上好
+EN: See you tomorrow
+ZH: 你是学生。
+EN: I want to eat
+ZH: 我想吃披萨！
+EN: Where is the bathroom
+ZH: 地铁站在哪里？
+
+[2026-04-30 13:34:14] epoch=1 device=cuda:0 | train_loss=2.048196 | val_loss=0.865556
+EN: I love you
+ZH: 你想吃一个三明治。
+EN: This is a book
+ZH: 他们想吃一个三明治。
+EN: How are you
+ZH: 你想吃一个三明治。
+EN: I am a student
+ZH: 我想吃一个三明治。
+EN: What is your name
+ZH: 给安娜打电话？
+EN: Thank you
+ZH: 你喜欢约翰。
+EN: Good morning
+ZH: 安娜喜欢詹姆斯？
+EN: See you tomorrow
+ZH: 你想吃一个三明治。
+EN: I want to eat
+ZH: 我想吃一个三明治。
+EN: Where is the bathroom
+ZH: 他们坐走路去超市？
+
+[2026-04-30 13:34:22] epoch=2 device=cuda:0 | train_loss=0.519167 | val_loss=0.352279
+EN: I love you
+ZH: 你想要一张票。
+EN: This is a book
+ZH: 现在九点！
+EN: How are you
+ZH: 你想要一张票。
+EN: I am a student
+ZH: 我是老师。
+EN: What is your name
+ZH: 你会说日文吗？
+EN: Thank you
+ZH: 你喜欢罗伯特？
+EN: Good morning
+ZH: 安娜喜欢奥利维亚。
+EN: See you tomorrow
+ZH: 你想要一张票。
+EN: I want to eat
+ZH: 我想吃一个三明治。
+EN: Where is the bathroom
+ZH: 公交站在哪里？
+
+[2026-04-30 13:34:29] epoch=3 device=cuda:0 | train_loss=0.196800 | val_loss=0.099178
+EN: I love you
+ZH: 你会说中文！
+EN: This is a book
+ZH: 我是老师！
+EN: How are you
+ZH: 你想要这部手机。
+EN: I am a student
+ZH: 我是老师。
+EN: What is your name
+ZH: 你会说日文吗？
+EN: Thank you
+ZH: 你想吃鱼！
+EN: Good morning
+ZH: 丹尼尔喜欢玛丽。
+EN: See you tomorrow
+ZH: 你想要这部手机。
+EN: I want to eat
+ZH: 我想吃一个苹果。
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:34:37] epoch=4 device=cuda:0 | train_loss=0.070453 | val_loss=0.047624
+EN: I love you
+ZH: 你爱跑步？
+EN: This is a book
+ZH: 这支笔多少钱！
+EN: How are you
+ZH: 你想要这个。
+EN: I am a student
+ZH: 我是设计师。
+EN: What is your name
+ZH: 你会说日文吗？
+EN: Thank you
+ZH: 你
+EN: Good morning
+ZH: 丹尼尔喜欢玛丽。
+EN: See you tomorrow
+ZH: 你是工程师。
+EN: I want to eat
+ZH: 我想吃面条？
+EN: Where is the bathroom
+ZH: 洗手间在哪里。
+
+[2026-04-30 13:34:45] epoch=5 device=cuda:0 | train_loss=0.040680 | val_loss=0.033339
+EN: I love you
+ZH: 你爱跑步？
+EN: This is a book
+ZH: 这支笔多少钱？
+EN: How are you
+ZH: 你想要这个。
+EN: I am a student
+ZH: 我是设计师。
+EN: What is your name
+ZH: 你会说日文吗？
+EN: Thank you
+ZH: 你丹尼尔？
+EN: Good morning
+ZH: 你好
+EN: See you tomorrow
+ZH: 你安娜喜欢艾玛。
+EN: I want to eat
+ZH: 我想吃巧克力？
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:34:53] epoch=6 device=cuda:0 | train_loss=0.026782 | val_loss=0.025893
+EN: I love you
+ZH: 你爱跑步！
+EN: This is a book
+ZH: 我是学生！
+EN: How are you
+ZH: 你想吃一个苹果！
+EN: I am a student
+ZH: 我是学生。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你？
+EN: Good morning
+ZH: 你好
+EN: See you tomorrow
+ZH: 你是工程师。
+EN: I want to eat
+ZH: 我想吃面条？
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:35:01] epoch=7 device=cuda:0 | train_loss=0.018275 | val_loss=0.020177
+EN: I love you
+ZH: 你爱跑步！
+EN: This is a book
+ZH: 我是设计师！
+EN: How are you
+ZH: 你想要这个！
+EN: I am a student
+ZH: 我是设计师。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你
+EN: Good morning
+ZH: 你好吗。
+EN: See you tomorrow
+ZH: 你是工程师！
+EN: I want to eat
+ZH: 我想吃面条。
+EN: Where is the bathroom
+ZH: 洗手间在哪里。
+
+[2026-04-30 13:35:10] epoch=8 device=cuda:0 | train_loss=0.011898 | val_loss=0.019351
+EN: I love you
+ZH: 你爱跑步！
+EN: This is a book
+ZH: 我是设计师！
+EN: How are you
+ZH: 你想要这个。
+EN: I am a student
+ZH: 我是老师。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你？
+EN: Good morning
+ZH: 早上好
+EN: See you tomorrow
+ZH: 你是工程师！
+EN: I want to eat
+ZH: 我想吃汤？
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:35:10] epoch=8 device=cuda:0
+EN: I love you
+ZH: 你爱跑步！
+EN: This is a book
+ZH: 我是设计师！
+EN: How are you
+ZH: 你想要这个。
+EN: I am a student
+ZH: 我是老师。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你？
+EN: Good morning
+ZH: 早上好
+EN: See you tomorrow
+ZH: 你是工程师！
+EN: I want to eat
+ZH: 我想吃汤？
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:39:32] epoch=1 device=cuda:0 | train_loss=2.048196 | val_loss=0.865556
+EN: I love you
+ZH: 你想吃一个三明治。
+EN: This is a book
+ZH: 他们想吃一个三明治。
+EN: How are you
+ZH: 你想吃一个三明治。
+EN: I am a student
+ZH: 我想吃一个三明治。
+EN: What is your name
+ZH: 给安娜打电话？
+EN: Thank you
+ZH: 你喜欢约翰。
+EN: Good morning
+ZH: 安娜喜欢詹姆斯？
+EN: See you tomorrow
+ZH: 你想吃一个三明治。
+EN: I want to eat
+ZH: 我想吃一个三明治。
+EN: Where is the bathroom
+ZH: 他们坐走路去超市？
+
+[2026-04-30 13:40:00] epoch=2 device=cuda:0 | train_loss=0.519167 | val_loss=0.352279
+EN: I love you
+ZH: 你想要一张票。
+EN: This is a book
+ZH: 现在九点！
+EN: How are you
+ZH: 你想要一张票。
+EN: I am a student
+ZH: 我是老师。
+EN: What is your name
+ZH: 你会说日文吗？
+EN: Thank you
+ZH: 你喜欢罗伯特？
+EN: Good morning
+ZH: 安娜喜欢奥利维亚。
+EN: See you tomorrow
+ZH: 你想要一张票。
+EN: I want to eat
+ZH: 我想吃一个三明治。
+EN: Where is the bathroom
+ZH: 公交站在哪里？
+
+[2026-04-30 13:40:16] epoch=3 device=cuda:0 | train_loss=0.196800 | val_loss=0.099178
+EN: I love you
+ZH: 你会说中文！
+EN: This is a book
+ZH: 我是老师！
+EN: How are you
+ZH: 你想要这部手机。
+EN: I am a student
+ZH: 我是老师。
+EN: What is your name
+ZH: 你会说日文吗？
+EN: Thank you
+ZH: 你想吃鱼！
+EN: Good morning
+ZH: 丹尼尔喜欢玛丽。
+EN: See you tomorrow
+ZH: 你想要这部手机。
+EN: I want to eat
+ZH: 我想吃一个苹果。
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:40:33] epoch=4 device=cuda:0 | train_loss=0.070453 | val_loss=0.047624
+EN: I love you
+ZH: 你爱跑步？
+EN: This is a book
+ZH: 这支笔多少钱！
+EN: How are you
+ZH: 你想要这个。
+EN: I am a student
+ZH: 我是设计师。
+EN: What is your name
+ZH: 你会说日文吗？
+EN: Thank you
+ZH: 你
+EN: Good morning
+ZH: 丹尼尔喜欢玛丽。
+EN: See you tomorrow
+ZH: 你是工程师。
+EN: I want to eat
+ZH: 我想吃面条？
+EN: Where is the bathroom
+ZH: 洗手间在哪里。
+
+[2026-04-30 13:40:50] epoch=5 device=cuda:0 | train_loss=0.040680 | val_loss=0.033339
+EN: I love you
+ZH: 你爱跑步？
+EN: This is a book
+ZH: 这支笔多少钱？
+EN: How are you
+ZH: 你想要这个。
+EN: I am a student
+ZH: 我是设计师。
+EN: What is your name
+ZH: 你会说日文吗？
+EN: Thank you
+ZH: 你丹尼尔？
+EN: Good morning
+ZH: 你好
+EN: See you tomorrow
+ZH: 你安娜喜欢艾玛。
+EN: I want to eat
+ZH: 我想吃巧克力？
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:41:11] epoch=6 device=cuda:0 | train_loss=0.026782 | val_loss=0.025893
+EN: I love you
+ZH: 你爱跑步！
+EN: This is a book
+ZH: 我是学生！
+EN: How are you
+ZH: 你想吃一个苹果！
+EN: I am a student
+ZH: 我是学生。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你？
+EN: Good morning
+ZH: 你好
+EN: See you tomorrow
+ZH: 你是工程师。
+EN: I want to eat
+ZH: 我想吃面条？
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:41:27] epoch=7 device=cuda:0 | train_loss=0.018275 | val_loss=0.020177
+EN: I love you
+ZH: 你爱跑步！
+EN: This is a book
+ZH: 我是设计师！
+EN: How are you
+ZH: 你想要这个！
+EN: I am a student
+ZH: 我是设计师。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你
+EN: Good morning
+ZH: 你好吗。
+EN: See you tomorrow
+ZH: 你是工程师！
+EN: I want to eat
+ZH: 我想吃面条。
+EN: Where is the bathroom
+ZH: 洗手间在哪里。
+
+[2026-04-30 13:41:55] epoch=8 device=cuda:0 | train_loss=0.011898 | val_loss=0.019351
+EN: I love you
+ZH: 你爱跑步！
+EN: This is a book
+ZH: 我是设计师！
+EN: How are you
+ZH: 你想要这个。
+EN: I am a student
+ZH: 我是老师。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你？
+EN: Good morning
+ZH: 早上好
+EN: See you tomorrow
+ZH: 你是工程师！
+EN: I want to eat
+ZH: 我想吃汤？
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:42:21] epoch=9 device=cuda:0 | train_loss=0.007704 | val_loss=0.018356
+EN: I love you
+ZH: 我爱跑步？
+EN: This is a book
+ZH: 这本书多少钱！
+EN: How are you
+ZH: 你想要这个。
+EN: I am a student
+ZH: 我是设计师。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你
+EN: Good morning
+ZH: 早上好
+EN: See you tomorrow
+ZH: 你会说中文吗！
+EN: I want to eat
+ZH: 我想吃面条？
+EN: Where is the bathroom
+ZH: 洗手间在哪里。
+
+[2026-04-30 13:42:48] epoch=10 device=cuda:0 | train_loss=0.005758 | val_loss=0.016384
+EN: I love you
+ZH: 你爱跑步！
+EN: This is a book
+ZH: 这本书多少钱！
+EN: How are you
+ZH: 你想要这个？
+EN: I am a student
+ZH: 我是医生。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你能再说一遍吗？
+EN: Good morning
+ZH: 晚安
+EN: See you tomorrow
+ZH: 你安娜喜欢艾玛！
+EN: I want to eat
+ZH: 我想吃面条？
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:43:10] epoch=11 device=cuda:0 | train_loss=0.004531 | val_loss=0.019468
+EN: I love you
+ZH: 我爱跑步？
+EN: This is a book
+ZH: 我是设计师！
+EN: How are you
+ZH: 你想要这个？
+EN: I am a student
+ZH: 我是医生。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你？
+EN: Good morning
+ZH: 晚安
+EN: See you tomorrow
+ZH: 明天见
+EN: I want to eat
+ZH: 我想吃面条。
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:43:36] epoch=12 device=cuda:0 | train_loss=0.003067 | val_loss=0.020422
+EN: I love you
+ZH: 你爱跑步？
+EN: This is a book
+ZH: 我是设计师！
+EN: How are you
+ZH: 你想要这个！
+EN: I am a student
+ZH: 我是老师。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你能再说一遍？
+EN: Good morning
+ZH: 早上好
+EN: See you tomorrow
+ZH: 你安娜喜欢艾玛！
+EN: I want to eat
+ZH: 我想吃面条。
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:43:57] epoch=13 device=cuda:0 | train_loss=0.002775 | val_loss=0.019969
+EN: I love you
+ZH: 我爱跑步？
+EN: This is a book
+ZH: 我是设计师！
+EN: How are you
+ZH: 你想要一个橙子！
+EN: I am a student
+ZH: 我是设计师。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你能再说一遍吗
+EN: Good morning
+ZH: 早上好
+EN: See you tomorrow
+ZH: 明天见
+EN: I want to eat
+ZH: 我想吃面条。
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:44:24] epoch=14 device=cuda:0 | train_loss=0.002076 | val_loss=0.021448
+EN: I love you
+ZH: 我爱跑步！
+EN: This is a book
+ZH: 这本书多少钱！
+EN: How are you
+ZH: 你想要这个？
+EN: I am a student
+ZH: 我是设计师。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 谢谢
+EN: Good morning
+ZH: 晚安
+EN: See you tomorrow
+ZH: 明天见
+EN: I want to eat
+ZH: 我想吃面条。
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:44:39] epoch=15 device=cuda:0 | train_loss=0.002154 | val_loss=0.023212
+EN: I love you
+ZH: 我爱跑步？
+EN: This is a book
+ZH: 这本书多少钱？
+EN: How are you
+ZH: 你想要这个！
+EN: I am a student
+ZH: 我是设计师。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你能再说一遍吗
+EN: Good morning
+ZH: 早上好
+EN: See you tomorrow
+ZH: 明天见
+EN: I want to eat
+ZH: 我想吃面条。
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:44:57] epoch=16 device=cuda:0 | train_loss=0.001539 | val_loss=0.021812
+EN: I love you
+ZH: 我爱跑步？
+EN: This is a book
+ZH: 我是设计师？
+EN: How are you
+ZH: 你想要这个。
+EN: I am a student
+ZH: 我是学生。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你能再说一遍？
+EN: Good morning
+ZH: 早上好
+EN: See you tomorrow
+ZH: 明天见
+EN: I want to eat
+ZH: 我想吃面条。
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:45:12] epoch=17 device=cuda:0 | train_loss=0.001155 | val_loss=0.023535
+EN: I love you
+ZH: 我爱跑步！
+EN: This is a book
+ZH: 这本书多少钱！
+EN: How are you
+ZH: 你想要这个！
+EN: I am a student
+ZH: 我是学生。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 谢谢
+EN: Good morning
+ZH: 晚安
+EN: See you tomorrow
+ZH: 明天见
+EN: I want to eat
+ZH: 我想吃面条。
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:45:36] epoch=18 device=cuda:0 | train_loss=0.001238 | val_loss=0.022519
+EN: I love you
+ZH: 我爱跑步？
+EN: This is a book
+ZH: 这本书多少钱？
+EN: How are you
+ZH: 你想要这个。
+EN: I am a student
+ZH: 我是工程师。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 谢谢
+EN: Good morning
+ZH: 早上好
+EN: See you tomorrow
+ZH: 明天见
+EN: I want to eat
+ZH: 我想吃面条。
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:51:25] epoch=0 device=cuda:0
+EN: I love you
+ZH: 牛肉这个在一点十点蛋糕喝咖啡充电器叫名字安娜多少做饭饿桌子工程师会周六问题饿桌子工程师会周六问题饿名字安娜多少做饭饿桌子银行喝水橙子想要。韩文面包
+EN: This is a book
+ZH: 牛肉这个在一点十点蛋糕喝咖啡充电器叫名字安娜多少做饭饿名字安娜多少做饭饿名字安娜多少做饭饿名字安娜多少做饭饿名字安娜多少做饭饿名字安娜多少做饭饿
+EN: How are you
+ZH: 牛肉这个在一点十点蛋糕喝咖啡充电器叫名字安娜多少做饭饿桌子工程师会周六问题饿桌子工程师会周六问题饿桌子银行喝水橙子想要。对不起冷下午会见很音乐不
+EN: I am a student
+ZH: 牛肉这个在一点十点蛋糕喝咖啡充电器叫名字安娜多少做饭饿名字安娜多少做饭饿名字安娜多少做饭饿名字安娜多少做饭饿桌子银行喝水橙子想要。韩文面包运动韩文
+EN: What is your name
+ZH: 牛肉这个在一点十点蛋糕喝咖啡充电器叫名字安娜多少做饭饿桌子工程师会周六问题饿桌子工程师会周六问题饿桌子咖啡莉莉周六问题饿桌子咖啡莉莉周六问题饿桌子
+EN: Thank you
+ZH: 牛肉这个在一点十点蛋糕喝咖啡充电器叫名字安娜多少做饭饿桌子工程师会周六问题饿桌子工程师会周六问题饿桌子咖啡莉莉周六问题饿桌子咖啡莉莉周六问题饿桌子
+EN: Good morning
+ZH: 牛肉这个在一点十点蛋糕喝咖啡充电器叫名字安娜多少做饭饿桌子工程师会周六问题饿桌子工程师会周六问题饿桌子工程师会周六问题饿桌子工程师会周六问题饿桌子
+EN: See you tomorrow
+ZH: 牛肉这个在一点十点蛋糕喝咖啡充电器叫名字安娜多少做饭饿桌子银行喝水橙子想要。对不起冷下午会见很音乐不想要。韩文鱼莎拉饿桌子银行喝水橙子想要。
+EN: I want to eat
+ZH: 牛肉这个在一点十点蛋糕喝咖啡充电器叫名字安娜多少做饭饿名字安娜多少做饭饿名字安娜多少做饭饿名字安娜多少做饭饿名字安娜多少做饭饿名字安娜多少做饭饿
+EN: Where is the bathroom
+ZH: 牛肉这个在一点十点蛋糕喝咖啡充电器叫名字安娜多少做饭饿名字安娜多少做饭饿桌子工程师会周六问题饿名字安娜多少做饭饿桌子工程师会周六问题饿桌子工程师会
+
+[2026-04-30 13:55:38] epoch=1 device=cuda:0 | train_loss=2.048196 | val_loss=0.865556
+EN: I love you
+ZH: 你想吃一个三明治。
+EN: This is a book
+ZH: 他们想吃一个三明治。
+EN: How are you
+ZH: 你想吃一个三明治。
+EN: I am a student
+ZH: 我想吃一个三明治。
+EN: What is your name
+ZH: 给安娜打电话？
+EN: Thank you
+ZH: 你喜欢约翰。
+EN: Good morning
+ZH: 安娜喜欢詹姆斯？
+EN: See you tomorrow
+ZH: 你想吃一个三明治。
+EN: I want to eat
+ZH: 我想吃一个三明治。
+EN: Where is the bathroom
+ZH: 他们坐走路去超市？
+
+[2026-04-30 13:55:53] epoch=2 device=cuda:0 | train_loss=0.519167 | val_loss=0.352279
+EN: I love you
+ZH: 你想要一张票。
+EN: This is a book
+ZH: 现在九点！
+EN: How are you
+ZH: 你想要一张票。
+EN: I am a student
+ZH: 我是老师。
+EN: What is your name
+ZH: 你会说日文吗？
+EN: Thank you
+ZH: 你喜欢罗伯特？
+EN: Good morning
+ZH: 安娜喜欢奥利维亚。
+EN: See you tomorrow
+ZH: 你想要一张票。
+EN: I want to eat
+ZH: 我想吃一个三明治。
+EN: Where is the bathroom
+ZH: 公交站在哪里？
+
+[2026-04-30 13:56:10] epoch=3 device=cuda:0 | train_loss=0.196800 | val_loss=0.099178
+EN: I love you
+ZH: 你会说中文！
+EN: This is a book
+ZH: 我是老师！
+EN: How are you
+ZH: 你想要这部手机。
+EN: I am a student
+ZH: 我是老师。
+EN: What is your name
+ZH: 你会说日文吗？
+EN: Thank you
+ZH: 你想吃鱼！
+EN: Good morning
+ZH: 丹尼尔喜欢玛丽。
+EN: See you tomorrow
+ZH: 你想要这部手机。
+EN: I want to eat
+ZH: 我想吃一个苹果。
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:56:36] epoch=4 device=cuda:0 | train_loss=0.070453 | val_loss=0.047624
+EN: I love you
+ZH: 你爱跑步？
+EN: This is a book
+ZH: 这支笔多少钱！
+EN: How are you
+ZH: 你想要这个。
+EN: I am a student
+ZH: 我是设计师。
+EN: What is your name
+ZH: 你会说日文吗？
+EN: Thank you
+ZH: 你
+EN: Good morning
+ZH: 丹尼尔喜欢玛丽。
+EN: See you tomorrow
+ZH: 你是工程师。
+EN: I want to eat
+ZH: 我想吃面条？
+EN: Where is the bathroom
+ZH: 洗手间在哪里。
+
+[2026-04-30 13:57:03] epoch=5 device=cuda:0 | train_loss=0.040680 | val_loss=0.033339
+EN: I love you
+ZH: 你爱跑步？
+EN: This is a book
+ZH: 这支笔多少钱？
+EN: How are you
+ZH: 你想要这个。
+EN: I am a student
+ZH: 我是设计师。
+EN: What is your name
+ZH: 你会说日文吗？
+EN: Thank you
+ZH: 你丹尼尔？
+EN: Good morning
+ZH: 你好
+EN: See you tomorrow
+ZH: 你安娜喜欢艾玛。
+EN: I want to eat
+ZH: 我想吃巧克力？
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:57:22] epoch=6 device=cuda:0 | train_loss=0.026782 | val_loss=0.025893
+EN: I love you
+ZH: 你爱跑步！
+EN: This is a book
+ZH: 我是学生！
+EN: How are you
+ZH: 你想吃一个苹果！
+EN: I am a student
+ZH: 我是学生。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你？
+EN: Good morning
+ZH: 你好
+EN: See you tomorrow
+ZH: 你是工程师。
+EN: I want to eat
+ZH: 我想吃面条？
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:57:48] epoch=7 device=cuda:0 | train_loss=0.018275 | val_loss=0.020177
+EN: I love you
+ZH: 你爱跑步！
+EN: This is a book
+ZH: 我是设计师！
+EN: How are you
+ZH: 你想要这个！
+EN: I am a student
+ZH: 我是设计师。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你
+EN: Good morning
+ZH: 你好吗。
+EN: See you tomorrow
+ZH: 你是工程师！
+EN: I want to eat
+ZH: 我想吃面条。
+EN: Where is the bathroom
+ZH: 洗手间在哪里。
+
+[2026-04-30 13:58:14] epoch=8 device=cuda:0 | train_loss=0.011898 | val_loss=0.019351
+EN: I love you
+ZH: 你爱跑步！
+EN: This is a book
+ZH: 我是设计师！
+EN: How are you
+ZH: 你想要这个。
+EN: I am a student
+ZH: 我是老师。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你？
+EN: Good morning
+ZH: 早上好
+EN: See you tomorrow
+ZH: 你是工程师！
+EN: I want to eat
+ZH: 我想吃汤？
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:58:31] epoch=9 device=cuda:0 | train_loss=0.007704 | val_loss=0.018356
+EN: I love you
+ZH: 我爱跑步？
+EN: This is a book
+ZH: 这本书多少钱！
+EN: How are you
+ZH: 你想要这个。
+EN: I am a student
+ZH: 我是设计师。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你
+EN: Good morning
+ZH: 早上好
+EN: See you tomorrow
+ZH: 你会说中文吗！
+EN: I want to eat
+ZH: 我想吃面条？
+EN: Where is the bathroom
+ZH: 洗手间在哪里。
+
+[2026-04-30 13:58:47] epoch=10 device=cuda:0 | train_loss=0.005758 | val_loss=0.016384
+EN: I love you
+ZH: 你爱跑步！
+EN: This is a book
+ZH: 这本书多少钱！
+EN: How are you
+ZH: 你想要这个？
+EN: I am a student
+ZH: 我是医生。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你能再说一遍吗？
+EN: Good morning
+ZH: 晚安
+EN: See you tomorrow
+ZH: 你安娜喜欢艾玛！
+EN: I want to eat
+ZH: 我想吃面条？
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 13:58:47] epoch=10 device=cuda:0
+EN: I love you
+ZH: 你爱跑步！
+EN: This is a book
+ZH: 这本书多少钱！
+EN: How are you
+ZH: 你想要这个？
+EN: I am a student
+ZH: 我是医生。
+EN: What is your name
+ZH: 你叫什么名字
+EN: Thank you
+ZH: 你能再说一遍吗？
+EN: Good morning
+ZH: 晚安
+EN: See you tomorrow
+ZH: 你安娜喜欢艾玛！
+EN: I want to eat
+ZH: 我想吃面条？
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 14:05:41] epoch=1 device=cuda:0 | train_loss=3.241628 | val_loss=1.972861
+EN: I love you
+ZH: 我坐走路去学校。
+EN: This is a book
+ZH: 我坐走路去学校。
+EN: How are you
+ZH: 你坐走路去学校。
+EN: I am a student
+ZH: 我坐走路去学校。
+EN: What is your name
+ZH: 我坐走路去？
+EN: Thank you
+ZH: 你坐。
+EN: Good morning
+ZH: 安娜喜欢玛丽？
+EN: See you tomorrow
+ZH: 你坐走路去？
+EN: I want to eat
+ZH: 我坐走路去学校。
+EN: Where is the bathroom
+ZH: 我坐走路去学校。
+
+[2026-04-30 14:05:59] epoch=2 device=cuda:0 | train_loss=1.555370 | val_loss=1.039222
+EN: I love you
+ZH: 你坐出租车去公交站？
+EN: This is a book
+ZH: 他们坐出租车去公交站？
+EN: How are you
+ZH: 你喜欢朱莉娅。
+EN: I am a student
+ZH: 我想吃面条。
+EN: What is your name
+ZH: 他们坐出租车去公交站？
+EN: Thank you
+ZH: 你喜欢朱莉娅？
+EN: Good morning
+ZH: 丹尼尔喜欢布莱恩。
+EN: See you tomorrow
+ZH: 你喜欢朱莉娅？
+EN: I want to eat
+ZH: 我想吃面条。
+EN: Where is the bathroom
+ZH: 他们坐出租车去公交站。
+
+[2026-04-30 14:06:15] epoch=3 device=cuda:0 | train_loss=0.961384 | val_loss=0.720212
+EN: I love you
+ZH: 你想吃一个三明治！
+EN: This is a book
+ZH: 他们想吃一个三明治！
+EN: How are you
+ZH: 你喜欢埃里克！
+EN: I am a student
+ZH: 我想吃一个充电器。
+EN: What is your name
+ZH: 他们想吃一个三明治！
+EN: Thank you
+ZH: 你喜欢克里斯？
+EN: Good morning
+ZH: 安娜喜欢亨利。
+EN: See you tomorrow
+ZH: 你喜欢埃里克！
+EN: I want to eat
+ZH: 我想吃一个三明治！
+EN: Where is the bathroom
+ZH: 他们坐自行车去机场。
+
+[2026-04-30 14:06:32] epoch=4 device=cuda:0 | train_loss=0.578618 | val_loss=0.465539
+EN: I love you
+ZH: 你想要这支笔？
+EN: This is a book
+ZH: 我想吃一个充电器。
+EN: How are you
+ZH: 你喜欢凯文。
+EN: I am a student
+ZH: 我想吃一个三明治！
+EN: What is your name
+ZH: 詹姆斯喜欢詹姆斯。
+EN: Thank you
+ZH: 你喜欢罗伯特。
+EN: Good morning
+ZH: 安娜喜欢克洛伊。
+EN: See you tomorrow
+ZH: 你喜欢艾玛！
+EN: I want to eat
+ZH: 我想吃一个三明治！
+EN: Where is the bathroom
+ZH: 他们坐公交车去洗手间！
+
+[2026-04-30 14:06:48] epoch=5 device=cuda:0 | train_loss=0.429630 | val_loss=0.390331
+EN: I love you
+ZH: 你想要这支笔！
+EN: This is a book
+ZH: 我是设计师！
+EN: How are you
+ZH: 你喜欢凯文。
+EN: I am a student
+ZH: 我是设计师！
+EN: What is your name
+ZH: 现在十点。
+EN: Thank you
+ZH: 你喜欢罗伯特。
+EN: Good morning
+ZH: 安娜喜欢奥利维亚。
+EN: See you tomorrow
+ZH: 你喜欢艾玛。
+EN: I want to eat
+ZH: 我想吃一个三明治！
+EN: Where is the bathroom
+ZH: 超市在哪里。
+
+[2026-04-30 14:07:04] epoch=6 device=cuda:0 | train_loss=0.313603 | val_loss=0.218422
+EN: I love you
+ZH: 你想要这支笔！
+EN: This is a book
+ZH: 我是医生！
+EN: How are you
+ZH: 你喜欢凯文！
+EN: I am a student
+ZH: 我是医生。
+EN: What is your name
+ZH: 你会说日文吗！
+EN: Thank you
+ZH: 你喜欢罗伯特！
+EN: Good morning
+ZH: 安娜帮助索菲亚！
+EN: See you tomorrow
+ZH: 你喜欢艾玛。
+EN: I want to eat
+ZH: 我想吃一个三明治！
+EN: Where is the bathroom
+ZH: 博物馆在哪里？
+
+[2026-04-30 14:07:19] epoch=7 device=cuda:0 | train_loss=0.182630 | val_loss=0.142379
+EN: I love you
+ZH: 你想要这部手机？
+EN: This is a book
+ZH: 我是医生。
+EN: How are you
+ZH: 你喜欢凯文！
+EN: I am a student
+ZH: 我是医生。
+EN: What is your name
+ZH: 你想吃一个三明治。
+EN: Thank you
+ZH: 你喜欢罗伯特。
+EN: Good morning
+ZH: 布莱恩喜欢克洛伊！
+EN: See you tomorrow
+ZH: 你想要这部手机。
+EN: I want to eat
+ZH: 我想吃一个三明治。
+EN: Where is the bathroom
+ZH: 洗手间在哪里？
+
+[2026-04-30 14:07:34] epoch=8 device=cuda:0 | train_loss=0.127118 | val_loss=0.106670
+EN: I love you
+ZH: 你想要这部手机？
+EN: This is a book
+ZH: 我是老师。
+EN: How are you
+ZH: 你喜欢凯文！
+EN: I am a student
+ZH: 我是医生。
+EN: What is your name
+ZH: 你会说日文吗。
+EN: Thank you
+ZH: 你喜欢罗伯特？
+EN: Good morning
+ZH: 安娜喜欢克洛伊！
+EN: See you tomorrow
+ZH: 你想要这支笔。
+EN: I want to eat
+ZH: 我想吃一个橙子？
+EN: Where is the bathroom
+ZH: 洗手间在哪里。
+
+[2026-04-30 14:07:50] epoch=9 device=cuda:0 | train_loss=0.091142 | val_loss=0.078395
+EN: I love you
+ZH: 你想要这部手机？
+EN: This is a book
+ZH: 我是医生。
+EN: How are you
+ZH: 你喜欢凯文！
+EN: I am a student
+ZH: 我是医生。
+EN: What is your name
+ZH: 你会说日文吗？
+EN: Thank you
+ZH: 你喜欢丹尼尔？
+EN: Good morning
+ZH: 丹尼尔喜欢克洛伊！
+EN: See you tomorrow
+ZH: 你想要这支笔。
+EN: I want to eat
+ZH: 我想吃一个苹果？
+EN: Where is the bathroom
+ZH: 洗手间在哪里。
+
+[2026-04-30 14:08:06] epoch=10 device=cuda:0 | train_loss=0.066244 | val_loss=0.058525
+EN: I love you
+ZH: 你会说中文吗？
+EN: This is a book
+ZH: 我是医生！
+EN: How are you
+ZH: 你喜欢凯文！
+EN: I am a student
+ZH: 我是医生。
+EN: What is your name
+ZH: 你会说日文吗？
+EN: Thank you
+ZH: 你喜欢罗伯特？
+EN: Good morning
+ZH: 安娜喜欢克洛伊。
+EN: See you tomorrow
+ZH: 你想要这部手机。
+EN: I want to eat
+ZH: 我想吃一个橙子？
+EN: Where is the bathroom
+ZH: 洗手间在哪里。
+
+[2026-04-30 14:08:07] epoch=10 device=cuda:0
+EN: I love you
+ZH: 你会说中文吗？
+EN: This is a book
+ZH: 我是医生！
+EN: How are you
+ZH: 你喜欢凯文！
+EN: I am a student
+ZH: 我是医生。
+EN: What is your name
+ZH: 你会说日文吗？
+EN: Thank you
+ZH: 你喜欢罗伯特？
+EN: Good morning
+ZH: 安娜喜欢克洛伊。
+EN: See you tomorrow
+ZH: 你想要这部手机。
+EN: I want to eat
+ZH: 我想吃一个橙子？
+EN: Where is the bathroom
+ZH: 洗手间在哪里。
+
